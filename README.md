@@ -1,0 +1,1 @@
+# Angular-4-Algolia-Instantsearch.js
